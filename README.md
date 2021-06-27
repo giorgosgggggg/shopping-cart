@@ -9,4 +9,4 @@ This is a Shopping Cart Application. A user can add items to cart and also remov
 - React
 - React Hooks
 - UseState
-- UseEffect
+
